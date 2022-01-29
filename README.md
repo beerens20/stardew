@@ -1,2 +1,2 @@
-# stardew
-Stardew Valley Reference
+# Stardew
+[Stardew Valley Reference](stardew_ref.md)
