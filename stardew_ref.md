@@ -1,5 +1,7 @@
 #### Farm Building Costs
-Barn - 6,000g, 350 wood, 150 stone  
+| Building | Cost | Material 1 | Material 2 | Material 3 |
+| --- | --- | --- | --- | --- |
+| Barn | 6,000g | 350 wood | 150 stone |  
 Big Barn - 12,000g, 450 wood, 200 stone  
 Delux Barn - 25,000g, 550 wood, 300 stone  
 Coop - 4,000g, 300 wood, 100 stone  
