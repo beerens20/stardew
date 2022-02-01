@@ -20,11 +20,13 @@
 
 <details><summary>House Upgrades</summary>
 <p>
+  
   | Building | Cost | Material 1 | Material 2 |
   | --- |:---:| --- | --- |
   | Upgrade 1 | 10,000g | 450 wood |  
   | Upgrade 2 | 50,000g | 150 hardwood |  
   | Upgrade 3 | 100,000g |  
+  
 </p>
 </details>
 
