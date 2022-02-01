@@ -16,7 +16,7 @@
   | Stable | 10,000g | 100 hardwood | 5 iron bar | 
   
 </p>
-</details
+</details>
 
 <details><summary>House Upgrades</summary>
 <p>
