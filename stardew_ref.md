@@ -1,3 +1,4 @@
+<details>
 #### Farm Building Costs
 | Building | Cost | Material 1 | Material 2 | Material 3 |
 | --- |:---:| --- | --- | --- |
@@ -12,7 +13,7 @@
 | Big Shed | 20,000g | 550 wood | 300 stone |  
 | Slime Hutch | 10,000g | 500 stone | 10 refined quartz | 1 iridium bar |  
 | Stable | 10,000g | 100 hardwood | 5 iron bar |  
-
+</details
 
 #### House Upgrades
 | Building | Cost | Material 1 | Material 2 |
